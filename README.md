@@ -1,1 +1,1 @@
-# IBM_Couresera_Projects
+# IBM_Coursera_Projects
